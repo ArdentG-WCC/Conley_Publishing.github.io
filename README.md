@@ -1,8 +1,5 @@
 # Conley_Publishing.github.io
-body {  font-family: arial, sans-serif;
-        background-color: #f4f4f4;
-        padding: 20px;
-        }
+<link rel="stylesheet" href="style.css">
 <h1>Hello and welcome to my page!</h1>
 <h2>About me.</h2>
   <p>I am still just learning Html and CSS and am becoming very proficient in it. I have already lined up a client once my classes finish.</p>
@@ -21,4 +18,4 @@ body {  font-family: arial, sans-serif;
     <li>Github</li>
   </ul>
 </section>
-<link rel="stylesheet" href="style.css">
+
