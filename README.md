@@ -17,3 +17,4 @@
     <li>Github</li>
   </ul>
 </section>
+<link rel="stylesheet" href="style.css">
